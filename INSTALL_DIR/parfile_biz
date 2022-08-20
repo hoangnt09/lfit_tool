@@ -1,0 +1,9 @@
+image.fits           				0
+invvar.fits           				0
+psf.fits           					1
+junk_mask.fits           			0
+feature_mask.fits           		1
+foreground_light_model.fits         1
+140.1 138.0 0.567 120.9380
+23 14189 01
+SLACSJ0000+0000_biz.fits
